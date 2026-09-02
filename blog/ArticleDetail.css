@@ -1,0 +1,120 @@
+/*.article-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100px; /* cambia este valor según quieras *//*
+  width: 30%;
+  height: auto;
+  border-radius: 8px; /* opcional, esquinas redondeadas *//*
+}
+
+.article-detail {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+.article-detail h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.article-date {
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+}
+
+.article-image {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+.article-content p {
+  margin-bottom: 15px;
+}
+
+/* Media query para pantallas pequeñas *//*
+@media (max-width: 600px) {
+  .article-detail {
+    padding: 15px;
+    font-size: 1rem;
+  }
+
+  .article-detail h1 {
+    font-size: 1.5rem;
+  }
+}*/
+
+.article-detail {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+.article-detail h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.article-date {
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+}
+
+.article-image {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  object-fit: cover;    /* 🔹 Recorte uniforme */
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+.article-content p {
+  margin-bottom: 15px;
+}
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 600px) {
+  .article-detail {
+    padding: 15px;
+    font-size: 1rem;
+  }
+
+  .article-detail h1 {
+    font-size: 1.5rem;
+  }
+}
+
+.article-detail {
+  position: relative;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.close-x {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: transparent;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.close-x:hover {
+  color: #d00;
+}
