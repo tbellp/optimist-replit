@@ -1,0 +1,68 @@
+.form-container {
+  max-width: 500px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  background-color: gray;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.row {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1; /* para que ocupen el mismo ancho */
+}
+
+.form-group.full-width {
+  flex: 1 1 100%; /* ocupa todo el ancho */
+}
+
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #E0E0E0;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #E0E0E0; /* Texto dentro de los inputs */
+  background-color: #32343D; /* opcional: fondo oscuro para contraste */
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: #E0E0E0; /* Placeholders del mismo color */
+}
+
+textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.submit-btn {
+  background: #00BCD4;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.submit-btn:hover {
+  background: #0097a7;
+}
