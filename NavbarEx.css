@@ -1,0 +1,79 @@
+/* Styles for Navbar */
+.navbar {
+    color: #00BCD4;
+}
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/*.buttom  {
+    background-color: #00BCD4;
+    }
+*/
+
+.navbar a {
+    float: left;
+    display: flex;
+    color: #00BCD4;
+    text-align: left;
+    padding: 4px 6px;
+    text-decoration: none;
+    font-size: 20px;
+}
+@font-face {
+  font-family: "Avenir Next", "Montserrat", "Helvetica Neue";
+  src: url("../utils/AvenirNext.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.navbar-brand {
+    float: left;
+    display: flex;
+    font-family: Avenir Next;
+    color: #32343D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar-nav .nav-link {
+    font-size: 17px;
+}
+
+.navbar-collapse {
+  position: absolute;
+  top: 56px;   /* altura del navbar */
+  right: 0;    /* 👈 Aquí está la clave: lo pega a la derecha */
+  width: 50%;  /* Mitad de la pantalla */
+  background: rgba(50, 52, 61, 0.85);
+  padding: 1rem;
+  height: auto;
+  overflow-y: auto;
+}
+
+.navbar a:hover {
+    background-color: #32343D;
+    color: #00BCD4;
+}
+
+.navbar a.active {
+    color: #00BCD4;
+    background-color: #32343D;
+}
+
+.navbar .icon {
+    float: left;
+    display: none;
+
+}
+
+.responsive-navbar-nav {
+    background-color: #00BCD4;
+    }
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+}

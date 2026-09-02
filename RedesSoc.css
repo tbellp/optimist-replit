@@ -1,0 +1,61 @@
+/*.container {
+  background-color: #E0E0E0;
+  font-family: Avenir Next;
+  font-size: 16px;
+  margintop: 20px;
+  margin-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+  }
+
+.social-icons {
+  display: flex;
+  color: #00BCD4;
+  icontype: none;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+.social-icons a {
+  font-size: 20px;
+  width: 3em;
+  height: 3em;
+  color: #8BC34A;
+  transition: all 0.3s ease-in-out;
+    }*/
+.container {
+  background-color: #E0E0E0;
+  font-family: 'Avenir Next', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;      /* corregido */
+  margin-bottom: 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;  /* centra los íconos horizontalmente */
+  align-items: center;    /* centra verticalmente */
+  gap: 15px;                /* separación uniforme entre íconos */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.social-icons a {
+  font-size: 20px;         /* íconos un poco más grandes */
+  width: 3em;
+  height: 3em;
+  color: #8BC34A;
+  display: flex;
+  justify-content: center;  /* centra el icono dentro del enlace */
+  align-items: center;
+  text-decoration: none;   /* 🔹 agregado para quitar subrayado */
+  transition: all 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);   /* efecto hover */
+  color: #00BCD4;          /* cambio de color al pasar mouse */
+}
