@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+
+<Style id="faviconStyle">
+  <IconStyle>
+    <Icon>
+      <href>/Favicon.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<!-- Puntos -->
+  <Placemark>
+    <name>Otaki</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.59210858334437,-33.40232944503095,658.31</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Holy Moly</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.60128853215527,-33.4193911820123,625.23</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>El Bosque</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61904666172676,-33.43028153030263,602.45</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>El loco peque</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61640790466502,-33.43758142940205,594.73</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Krossbar Borde Río</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.57134676293954,-33.37975441236213,693.43</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Dangelus</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.66493153472403,-33.43957936728692,551.90</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Mercado Central</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.65061054180561,-33.43370786178826,563.61</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Carlitos</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.66902448744774,-33.43201636350907,559.75</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Carpeces</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.6294629092171,-33.40071004062298,524.77</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bellomar</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.62624559891736,-33.39630973029431,518.88</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Verdulería El Salto</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61528695306419,-33.38425955221417,524.73</coordinates></Point>
+  </Placemark>
+
+     <Placemark>
+    <name>Péscame</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.7449952480991,-33.50091091036468,486.41</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Zokai</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.6244269761096,-33.44880842457539,575.58</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>El pez de oro</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61570000095786,-33.43763562716063,596.49</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>El Bosque</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61768545095565,-33.4326056283031,596.51</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Krossbar-Orrego Luco</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.61184438333922,-33.42407040858252,611.63</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bistro de Gaetan</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.60990256829086,-33.42089899145409,614.68</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Kiara</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.51232694936743,-33.35139393809694,836.87</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Festa</name>
+    <description><![CDATA[Sin descripción]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.62458979591595,-33.44882533796314,571.33</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Magnolia</name>
+    <description><![CDATA[Equipado con sistema de enfriamiento Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.56285971108892,-33.40712125225274,694.05</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>La Tasca de alta mar</name>
+    <description><![CDATA[Terraza refrescada con sistema adiabático de Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.56442898863635,-33.40748968447762,686.37</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bistro Viet</name>
+    <description><![CDATA[Sistema de pulverizado de micro gotas de agua por Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.64156567935696,-33.43879677534149,568.07</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CHPE Libre</name>
+    <description><![CDATA[Diseño de enfriamiento de terraza por Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.64125081000437,-33.43808185782844,575.08</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>La Serrana</name>
+    <description><![CDATA[Pizzas]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-71.24422371352293,-34.99128431802265,216.66</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Colo colo</name>
+    <description><![CDATA[Destacado restaurante comida chilena]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-71.1231936439042,-34.95847580322244,308.56</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Row</name>
+    <description><![CDATA[Enfriamiento de carpa exterior por Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.54262995183009,-33.38727753972857,753.81</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Particular</name>
+    <description><![CDATA[Sin descripción]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.50669516494122,-33.3723731789361,823.58</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Particular</name>
+    <description><![CDATA[Sin descripción]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.49801944736895,-33.33677141430394,940.47</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Dipsy’s Backyard</name>
+    <description><![CDATA[Enfriamiento de terraza  diseñado por Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.59925754701145,-33.40618759893181,639.54</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>La cuadrilla</name>
+    <description><![CDATA[Enfriamiento de salón por sistema evaporativo de Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-71.82429577769332,-36.13996475114104,176.04</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Café Dolce Gelato</name>
+    <description><![CDATA[Sin Enfriamiento de jardines automático de Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.59511407428622,-33.42820798163429,621.80</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Verdulería El polo</name>
+    <description><![CDATA[Frutas y verduras siempre frescas]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.58698355670212,-33.3899689920691,670.51</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Emporio Balaguer</name>
+    <description><![CDATA[Humodificador de frutas y verduras de Optimist®]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.55364640708265,-33.37966373435643,731.88</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Vitalis</name>
+    <description><![CDATA[Sin descripción]]></description>
+    <styleUrl>#faviconStyle</styleUrl>
+    <Point><coordinates>-70.55565799907137,-33.38548514756562,670.79</coordinates></Point>
+  </Placemark>
+  
+  </Document>
+</kml>

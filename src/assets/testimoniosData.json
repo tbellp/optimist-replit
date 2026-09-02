@@ -1,0 +1,37 @@
+{
+  "restaurantes": [
+    { "texto": "Desde que instalamos el sistema, nuestros clientes disfrutan más de la terraza incluso en verano.", "autor": "María Torres, Restaurante El Buen Sabor" },
+    { "texto": "La temperatura bajó notablemente y eso ha aumentado nuestras ventas.", "autor": "Carlos Pérez, Parrilladas Don Carlos" },
+    { "texto": "El ambiente fresco ha sido clave para retener clientes en horas de calor extremo.", "autor": "Laura Gómez, Café Central" }
+  ],
+  "agricola": [
+    { "texto": "Nuestros cultivos se mantienen hidratados y productivos incluso en días calurosos.", "autor": "Pedro Molina, Viña Los Andes" },
+    { "texto": "Hemos reducido el estrés hídrico en nuestras plantas de tomate.", "autor": "Isabel Fuentes, AgroCampo" },
+    { "texto": "La inversión se recuperó en una temporada por el aumento de producción.", "autor": "Andrés López, Frutícola del Sur" }
+  ],
+  "ganaderos": [
+    { "texto": "Los animales se ven más tranquilos y han mejorado en producción de leche.", "autor": "Jorge Herrera, Lechería El Trigal" },
+    { "texto": "La mortalidad por golpe de calor se redujo a cero.", "autor": "Ana Martínez, Estancia Santa Ana" },
+    { "texto": "Nuestros vacunos engordan más rápido al estar menos estresados.", "autor": "Luis Rojas, Agropecuaria La Esperanza" }
+  ],
+  "industriales": [
+    { "texto": "Los trabajadores rinden más y el ambiente es más seguro.", "autor": "Miguel Castro, Fábrica Metalmecánica" },
+    { "texto": "Redujimos el uso de aire acondicionado y ahorramos energía.", "autor": "Verónica Díaz, Procesadora de Alimentos" },
+    { "texto": "El sistema es confiable y de bajo mantenimiento.", "autor": "Rodrigo Sánchez, Textiles del Norte" }
+  ],
+  "gimnasios": [
+    { "texto": "Los clientes pueden entrenar sin sofocarse, incluso en verano.", "autor": "Paula Muñoz, Gimnasio FitLife" },
+    { "texto": "La humedad controlada evita problemas de deshidratación.", "autor": "Sergio Orellana, Crossfit Pro" },
+    { "texto": "El sistema es silencioso y muy eficiente.", "autor": "Natalia Vergara, GymMax" }
+  ],
+  "pescaderias": [
+    { "texto": "El producto se mantiene fresco y atractivo para los clientes.", "autor": "Fernando Ruiz, Pescadería Mar Azul" },
+    { "texto": "Hemos reducido pérdidas por deterioro del pescado.", "autor": "Marcela Contreras, Pescados del Sur" },
+    { "texto": "Los clientes notan la frescura y vuelven más seguido.", "autor": "Ricardo Tapia, Mercado del Mar" }
+  ],
+  "duenos_casa": [
+    { "texto": "Nuestra terraza es usable incluso en las olas de calor.", "autor": "Claudia Rivera" },
+    { "texto": "Podemos recibir visitas sin preocuparnos por el calor.", "autor": "Diego Soto" },
+    { "texto": "El sistema es fácil de usar y no gasta mucha agua.", "autor": "Patricia Alarcón" }
+  ]
+}
