@@ -1,0 +1,6 @@
+name = "optimist"
+
+type = "javascript"
+[env]  
+[D1_DB]  
+binding = "my_database"
