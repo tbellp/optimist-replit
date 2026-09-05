@@ -4,4 +4,5 @@ type = "javascript"
 [env]  
 [D1_DB]  
 binding = "my_database"
+[[d1_databases]]
 env.DB
